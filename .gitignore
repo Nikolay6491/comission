@@ -40,6 +40,6 @@ out/
 *.rar
 
 ###
-!/wrapper
+!!/wrapper
 **!/src/main/**
 **!/src/test/**
